@@ -112,6 +112,8 @@ func main() {
 }
 
 /*
+The commands to test the proper exectuion of the program,
+
 GET
 curl localhost:8080/books
 
